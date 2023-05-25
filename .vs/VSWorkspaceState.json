@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\src",
+    "\\src\\data"
+  ],
+  "SelectedNode": "\\data.tsx",
+  "PreviewInSolutionExplorer": false
+}
