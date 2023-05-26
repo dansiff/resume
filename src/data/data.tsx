@@ -103,7 +103,7 @@ export const heroData: Hero = {
  * About section
  */
 export const aboutData: About = {
-    profileImageSrc: Profilepic ,
+    profileImageSrc: profilepic ,
   
     description: `I am a self taught Full Stack Software engineer. 
   I am driven to prove myself and make a name for myself in the industry.
