@@ -25,7 +25,7 @@ import porfolioImage8 from '../images/portfolio/portfolio-8.jpg';
 import porfolioImage9 from '../images/portfolio/portfolio-9.jpg';
 import porfolioImage10 from '../images/portfolio/portfolio-10.jpg';
 import porfolioImage11 from '../images/portfolio/portfolio-11.jpg';
-import profilepic from '../images/profilepic.jpg';
+import profilepic from '../images/Profilepic.jpg';
 import testimonialImage from '../images/testimonial.webp';
 import {
   About,
@@ -103,7 +103,7 @@ export const heroData: Hero = {
  * About section
  */
 export const aboutData: About = {
-  profileImageSrc: profilepic,
+  profileImageSrc: seet,
     description: `I am a self taught Full Stack Software engineer. 
   I am driven to prove myself and make a name for myself in the industry.
   Willing to solve any complex problem's given to me.'.`,
@@ -271,13 +271,13 @@ export const education: TimelineItem[] = [
     date: 'April 2019',
     location: 'Richard J Daley',
     title: 'Bachlors in computer science',
-    content: <p></p>,
+    content: <p>Completed bachlors</p>,
   },
   {
-    date: 'March 2003',
+    date: 'March 2018',
     location: 'School of Business',
-    title: 'What did you study 101',
-    content: <p>Describe your experience at school, what you learned, what useful skills you have acquired etc.</p>,
+    title: 'self taught bussiness',
+    content: <p>self taught via game studio as a indie developer.</p>,
   },
 ];
 
@@ -340,23 +340,23 @@ export const contact: ContactSection = {
   items: [
     {
       type: ContactType.Email,
-      text: 'reachout@timbaker.me',
-      href: 'mailto:reachout@timbaker.me',
+      text: 'danielsand711@gmail.com',
+      href: 'mailto:Danielsand711@gmail.com',
     },
     {
       type: ContactType.Location,
-      text: 'Victoria BC, Canada',
-      href: 'https://www.google.ca/maps/place/Victoria,+BC/@48.4262362,-123.376775,14z',
+      text: 'Chicago IL, America',
+      href: '',
     },
     {
       type: ContactType.Instagram,
-      text: '@tbakerx',
-      href: 'https://www.instagram.com/tbakerx/',
+      text: '',
+      href: '/',
     },
     {
       type: ContactType.Github,
-      text: 'tbakerx',
-      href: 'https://github.com/tbakerx',
+      text: '',
+      href: '',
     },
   ],
 };
@@ -365,9 +365,9 @@ export const contact: ContactSection = {
  * Social items
  */
 export const socialLinks: Social[] = [
-  {label: 'Github', Icon: GithubIcon, href: 'https://github.com/tbakerx'},
-  {label: 'Stack Overflow', Icon: StackOverflowIcon, href: 'https://stackoverflow.com/users/8553186/tim-baker'},
-  {label: 'LinkedIn', Icon: LinkedInIcon, href: 'https://www.linkedin.com/in/timbakerx/'},
-  {label: 'Instagram', Icon: InstagramIcon, href: 'https://www.instagram.com/tbakerx/'},
-  {label: 'Twitter', Icon: TwitterIcon, href: 'https://twitter.com/TimBakerx'},
+  {label: 'Github', Icon: GithubIcon, href: ''},
+  {label: 'Stack Overflow', Icon: StackOverflowIcon, href: ''},
+  {label: 'LinkedIn', Icon: LinkedInIcon, href: '/'},
+  {label: 'Instagram', Icon: InstagramIcon, href: ''},
+  {label: 'Twitter', Icon: TwitterIcon, href: ''},
 ];
