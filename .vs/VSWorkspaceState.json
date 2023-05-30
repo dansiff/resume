@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\data"
   ],
-  "SelectedNode": "\\C:\\Users\\Mark Sandoval\\source\\New folder (2)",
   "PreviewInSolutionExplorer": false
 }
