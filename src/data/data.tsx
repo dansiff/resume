@@ -347,7 +347,7 @@ export const contact: ContactSection = {
     {
       type: ContactType.Location,
       text: 'Chicago IL, America',
-      href: '',
+        href: 'https://www.google.com/maps/place/2532+S+Trumbull+Ave+%231,+Chicago,+IL+60623/@41.8452742,-87.7140551,17z/data=!4m6!3m5!1s0x880e326f245e4c31:0x1509b79c08c68685!8m2!3d41.8452742!4d-87.7114802!16s%2Fg%2F11f4kjgx3f?entry=ttu',
     },
     {
       type: ContactType.Instagram,
@@ -356,8 +356,8 @@ export const contact: ContactSection = {
     },
     {
       type: ContactType.Github,
-      text: '',
-      href: '',
+      text: 'github',
+        href: 'https://github.com/dans',
     },
   ],
 };
@@ -366,9 +366,9 @@ export const contact: ContactSection = {
  * Social items
  */
 export const socialLinks: Social[] = [
-  {label: 'Github', Icon: GithubIcon, href: ''},
-  {label: 'Stack Overflow', Icon: StackOverflowIcon, href: ''},
-  {label: 'LinkedIn', Icon: LinkedInIcon, href: '/'},
+    { label: 'Github', Icon: GithubIcon, href: 'https://github.com/dansiff'},
+  
+    { label: 'LinkedIn', Icon: LinkedInIcon, href: 'https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdaniel-sandoval-67137a257%3Ffbclid%3DIwAR2xeelv-jH89AE1MnjW1JpajYeFhpEk-mnO1zeFSmDHjS2DjNYdWGAavlQ&h=AT2c7Nvj3BLXtT_Pec74hahZnBGrW8xOBu8sVvIaZ-JNuqLpHoVA1CIgoLG5jvip5EgTQy1ajaOJZdio-h-kTjSDRImpnspG_WKMSQFXekPJDa_t49tWQ7Vasnw9Zk-GoYw56g'},
   {label: 'Instagram', Icon: InstagramIcon, href: ''},
   {label: 'Twitter', Icon: TwitterIcon, href: ''},
 ];

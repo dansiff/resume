@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\data",
+    "\\src\\images",
+    "\\src\\pages"
   ],
-  "SelectedNode": "\\C:\\Users\\Mark Sandoval\\source\\New folder (2)",
+  "SelectedNode": "\\src\\images\\testimonial.webp",
   "PreviewInSolutionExplorer": false
 }
