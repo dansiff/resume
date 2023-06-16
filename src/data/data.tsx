@@ -368,7 +368,7 @@ export const contact: ContactSection = {
 export const socialLinks: Social[] = [
     { label: 'Github', Icon: GithubIcon, href: 'https://github.com/dansiff'},
   
-    { label: 'LinkedIn', Icon: LinkedInIcon, href: 'https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdaniel-sandoval-67137a257%3Ffbclid%3DIwAR2xeelv-jH89AE1MnjW1JpajYeFhpEk-mnO1zeFSmDHjS2DjNYdWGAavlQ&h=AT2c7Nvj3BLXtT_Pec74hahZnBGrW8xOBu8sVvIaZ-JNuqLpHoVA1CIgoLG5jvip5EgTQy1ajaOJZdio-h-kTjSDRImpnspG_WKMSQFXekPJDa_t49tWQ7Vasnw9Zk-GoYw56g'},
+    { label: 'LinkedIn', Icon: LinkedInIcon, href: 'https://www.linkedin.com/in/daniel-sandoval-67137a257?fbclid=IwAR2YN_L7h4xlkStx_JFPUl3PWJkG1fZK8T4U7DljvllhdSMFNFpxGqWzd1k'},
   {label: 'Instagram', Icon: InstagramIcon, href: ''},
   {label: 'Twitter', Icon: TwitterIcon, href: ''},
 ];
