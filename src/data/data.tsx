@@ -11,7 +11,6 @@ import {
 import GithubIcon from '../components/Icon/GithubIcon';
 import InstagramIcon from '../components/Icon/InstagramIcon';
 import LinkedInIcon from '../components/Icon/LinkedInIcon';
-import StackOverflowIcon from '../components/Icon/StackOverflowIcon';
 import TwitterIcon from '../components/Icon/TwitterIcon';
 import heroImage from '../images/header-background.webp';
 import porfolioImage1 from '../images/portfolio/portfolio-1.jpg';
@@ -366,9 +365,9 @@ export const contact: ContactSection = {
  * Social items
  */
 export const socialLinks: Social[] = [
-    { label: 'Github', Icon: GithubIcon, href: 'https://github.com/dansiff'},
+    {label: 'Github', Icon: GithubIcon, href: 'https://github.com/dansiff'},
   
-    { label: 'LinkedIn', Icon: LinkedInIcon, href: 'https://www.linkedin.com/in/daniel-sandoval-67137a257?fbclid=IwAR2YN_L7h4xlkStx_JFPUl3PWJkG1fZK8T4U7DljvllhdSMFNFpxGqWzd1k'},
+    {label: 'LinkedIn', Icon: LinkedInIcon, href: 'https://www.linkedin.com/in/daniel-sandoval-67137a257?fbclid=IwAR2YN_L7h4xlkStx_JFPUl3PWJkG1fZK8T4U7DljvllhdSMFNFpxGqWzd1k'},
   {label: 'Instagram', Icon: InstagramIcon, href: ''},
   {label: 'Twitter', Icon: TwitterIcon, href: ''},
 ];
