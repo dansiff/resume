@@ -368,6 +368,6 @@ export const socialLinks: Social[] = [
     {label: 'Github', Icon: GithubIcon, href: 'https://github.com/dansiff'},
   
     {label: 'LinkedIn', Icon: LinkedInIcon, href: 'https://www.linkedin.com/in/daniel-sandoval-67137a257?fbclid=IwAR2YN_L7h4xlkStx_JFPUl3PWJkG1fZK8T4U7DljvllhdSMFNFpxGqWzd1k'},
-  {label: 'Instagram', Icon: InstagramIcon, href: ''},
-  {label: 'Twitter', Icon: TwitterIcon, href: ''},
+    {label: 'Instagram', Icon: InstagramIcon, href: 'https://www.instagram.com/danielsand711/?fbclid=IwAR2i_YorU2Gt0ovuH-XhMkAxt6-Hv4_FnkfRAEruaKbwcCyw30_8ojkNKxk'},
+    {label: 'Twitter', Icon: TwitterIcon, href: 'https://twitter.com/danielsand7?fbclid=IwAR3mqBUzEJy2CbB2JMKOkZ_xjrIdPgG0S96NvvA2S-cuXlhBzl6j0vWTunE'},
 ];
