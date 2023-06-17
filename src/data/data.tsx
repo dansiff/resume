@@ -319,12 +319,12 @@ export const testimonial: TestimonialSection = {
     },
     {
       name: 'Cynthia Rodriguez',
-      text: 'Here you should wrint.',
+      text: 'Completed independent contracts.',
       image: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/14.jpg',
     },
     {
-      name: 'S',
-      text: 'Add several of these,ills/work ethic.',
+      name: 'Unknown',
+      text: 'Completed NDA work.',
       image: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/69.jpg',
     },
   ],
@@ -336,7 +336,7 @@ export const testimonial: TestimonialSection = {
 
 export const contact: ContactSection = {
   headerText: 'Get in touch.',
-  description: 'Here is a good spot for a message to your readers to let them know how best to reach out to you.',
+  description: 'Listed our social media pages validating my backend experience.',
   items: [
     {
       type: ContactType.Email,
