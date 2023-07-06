@@ -43,8 +43,8 @@ import {
  * Page meta data
  */
 export const homePageMeta: HomepageMeta = {
-  title: 'template',
-  description: " react resume template",
+  title: 'Sandoval Bros',
+  description: " Website for Daniel Sandoval",
 };
 
 /**
