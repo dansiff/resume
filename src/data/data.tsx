@@ -85,13 +85,14 @@ export const heroData: Hero = {
   ),
   actions: [
     {
-      href: '/assets/resume.pdf',
+          href: '/assets/resume.pdf',
       text: 'Resume',
       primary: true,
-      Icon: ArrowDownTrayIcon,
+          Icon: ArrowDownTrayIcon,
+      
     },
     {
-      href: `#${SectionId.Contact}`,
+       href: `#${SectionId.Contact}`,
       text: 'Contact',
       primary: false,
     },
@@ -288,8 +289,8 @@ export const experience: TimelineItem[] = [
     title: 'Senior UX Engineer',
     content: (
       <p>
-        Describe 
-        anythi.
+        I have completed work on a EMR/EHR solution deployed to mircosoft store. This included teleconsulting API.   
+   
       </p>
     ),
   },
