@@ -89,15 +89,14 @@ export const heroData: Hero = {
             text: 'Resume',
             primary: true,
             Icon: ArrowDownTrayIcon,
-
         },
         {
             href: `#${SectionId.Contact}`,
             text: 'Contact',
             primary: false,
-        },
-    ],
-};
+        }
+    ]
+
 
 /**
  * About section
