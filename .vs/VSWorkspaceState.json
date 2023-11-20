@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\public",
+    "\\public\\assets",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\Layout",
+    "\\src\\components\\Sections",
+    "\\src\\components\\Sections\\Contact",
+    "\\src\\data"
   ],
-  "SelectedNode": "\\C:\\Users\\Danie\\Source\\Repos\\resume",
   "PreviewInSolutionExplorer": false
 }

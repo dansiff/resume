@@ -115,7 +115,8 @@ export const aboutData: About = {
     {label: 'Nationality', text: 'American', Icon: FlagIcon},
     {label: 'Interests', text: 'PC building, Car/house repair, Gym', Icon: SparklesIcon},
     {label: 'Study', text: 'Richard J daley', Icon: AcademicCapIcon},
-    {label: 'Employment', text: 'Sandoval Bros, inc.', Icon: BuildingOffice2Icon},
+      { label: 'Employment', text: 'Sandoval Bros, inc.', Icon: BuildingOffice2Icon },
+      <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=sandovalbros-20&language=en_US&marketplace=amazon&region=US&placement=B0CGFCWRMY&asins=B0CGFCWRMY&linkId=6d43e116b069fc5e2a418040c976d1ef&show_border=true&link_opens_in_new_window=true"></iframe>
   ],
 };
 
