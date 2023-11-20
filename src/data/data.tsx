@@ -67,37 +67,36 @@ export type SectionId = typeof SectionId[keyof typeof SectionId];
  * Hero section
  */
 export const heroData: Hero = {
-  imageSrc: heroImage,
-  name: `I'm Daniel Sandoval.`,
-  description: (
-    <>
-      <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        I'm a Chicago based <strong className="text-stone-100">Full Stack Software Engineer</strong>, currently working
-        at <strong className="text-stone-100">Sandoval Bros</strong> helping build a modern, mobile-first, domain
-        registrar, site builder, and game development.
-      </p>
-      <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        In my free time time, you can catch me training in <strong className="text-stone-100">the local gym</strong>,
-        fixing any <strong className="text-stone-100">Cars</strong>, or home remodeling in{' '}
-        <strong className="text-stone-100">Chicago</strong>.
-      </p>
-    </>
-  ),
-  actions: [
-    {
-          href: '/data/data.tsx/assets/resume.pdf',
-         
-      text: 'Resume',
-      primary: true,
-          Icon: ArrowDownTrayIcon,
-      
-    },
-    {
-       href: `#${SectionId.Contact}`,
-      text: 'Contact',
-      primary: false,
-    },
-  ],
+    imageSrc: heroImage,
+    name: `I'm Daniel Sandoval.`,
+    description: (
+        <>
+            <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
+                I'm a Chicago based <strong className="text-stone-100">Full Stack Software Engineer</strong>, currently working
+                at <strong className="text-stone-100">Sandoval Bros</strong> helping build a modern, mobile-first, domain
+                registrar, site builder, and game development.
+            </p>
+            <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
+                In my free time time, you can catch me training in <strong className="text-stone-100">the local gym</strong>,
+                fixing any <strong className="text-stone-100">Cars</strong>, or home remodeling in{' '}
+                <strong className="text-stone-100">Chicago</strong>.
+            </p>
+        </>
+    ),
+    actions: [
+        {
+            href: 'assets/resume.pdf',
+            text: 'Resume',
+            primary: true,
+            Icon: ArrowDownTrayIcon,
+
+        },
+        {
+            href: `#${SectionId.Contact}`,
+            text: 'Contact',
+            primary: false,
+        },
+    ],
 };
 
 /**
