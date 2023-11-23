@@ -74,7 +74,8 @@ export const heroData: Hero = {
             <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
                 I'm a Chicago based <strong className="text-stone-100">Full Stack Software Engineer</strong>, currently working
                 at <strong className="text-stone-100">Sandoval Bro's</strong> building modern web applications using event driven syntax. 
-                I have lead teams to develop EMR/EHR solutions as well as angular based feedback surveys. I have expertise in API, SQL, NoSQL, WordPress, Reactjs, nodejs, C#, C++.
+                I have lead teams to develop EMR/EHR solutions as well as angular based feedback surveys. I have expertise in API, SQL, NoSQL, WordPress,
+                Reactjs, expressjs, nodejs, C#, C++, springboot, AWS, mongoDB. 
                 I have a passion for the challenge of development. I recongize the importance of communication collaboration and modernization.
             </p>
             <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
