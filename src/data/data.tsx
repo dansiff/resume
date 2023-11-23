@@ -114,7 +114,7 @@ export const aboutData: About = {
     {label: 'Nationality', text: 'American', Icon: FlagIcon},
     {label: 'Interests', text: 'PC building, Car/house repair, Gym', Icon: SparklesIcon},
     {label: 'Study', text: 'Richard J daley', Icon: AcademicCapIcon},
-      { label: 'Employment', text: 'Sandoval Bros, inc.', Icon: BuildingOffice2Icon },
+      {label: 'Employment', text: 'Sandoval Bros, inc.', Icon: BuildingOffice2Icon},
   ],
 };
 
