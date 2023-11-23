@@ -96,6 +96,7 @@ export const heroData: Hero = {
             primary: false,
         },
     ],
+};
 
 
 /**
