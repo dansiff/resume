@@ -95,7 +95,7 @@ export const heroData: Hero = {
             text: 'Contact',
             primary: false,
         },
-    ];
+    ],
 
 
 /**
