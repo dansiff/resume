@@ -129,7 +129,7 @@ export const skills: SkillGroup[] = [
     skills: [
       {
         name: 'English',
-        level: 10,
+        level: 9,
       },
       {
         name: '',
@@ -274,7 +274,7 @@ export const education: TimelineItem[] = [
     date: '',
     location: '',
     title: '',
-    content: <p></p>,
+    content: <p>a</p>,
   },
   {
     date: 'March 2018',
