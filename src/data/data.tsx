@@ -79,7 +79,7 @@ export const heroData: Hero = {
                 I have a passion for the challenge of development. I recongize the importance of communication collaboration and modernization.
             </p>
             <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-                In my free time time, you can catch me training in <strong className="text-stone-100">the local gym</strong>,
+                In my free time time, you can catch me training at <strong className="text-stone-100">X-sport Gym</strong>,
                 fixing any <strong className="text-stone-100">Cars</strong>, or home remodeling in{' '}
                 <strong className="text-stone-100">Chicago</strong>.
             </p>
@@ -87,7 +87,7 @@ export const heroData: Hero = {
     ),
     actions: [
         {
-            href: 'https://drive.google.com/file/d/1RttIcaiCsK_FB4c8nyRKZCK-YbWNkQIy/view?usp=sharing',
+            href: 'https://drive.google.com/file/d/1hXm2f1ICVj_xc4PIdNBOzv1baNnjxVAU/view?usp=sharing',
             text: 'Resume',
             primary: true,
             Icon: ArrowDownTrayIcon,
@@ -109,14 +109,14 @@ export const aboutData: About = {
   
     description: `I am a self taught Full Stack Software engineer. 
   I am driven to prove myself and make a name for myself in the industry.
-  Willing to solve any complex problem's given to me.'.`,
+  Willing to solve any complex problem's presented with modern software solutions. Including robust API application or custom code scripts.'.`,
   aboutItems: [
     {label: 'Location', text: 'Chicago, IL', Icon: MapIcon},
-    {label: 'Age', text: '32', Icon: CalendarIcon},
+    {label: 'Age', text: '33', Icon: CalendarIcon},
     {label: 'Nationality', text: 'American', Icon: FlagIcon},
     {label: 'Interests', text: 'PC building, Car/house repair, Gym', Icon: SparklesIcon},
     {label: 'Study', text: 'Richard J daley', Icon: AcademicCapIcon},
-      {label: 'Employment', text: 'Sandoval Bros, inc.', Icon: BuildingOffice2Icon},
+      {label: 'Employment', text: 'Sandoval Bros, LLC.', Icon: BuildingOffice2Icon},
   ],
 };
 
@@ -133,7 +133,7 @@ export const skills: SkillGroup[] = [
       },
       {
         name: '',
-        level: 4,
+        level: 0,
       },
       {
         name: 'Spanish',
@@ -271,16 +271,16 @@ export const portfolioItems: PortfolioItem[] = [
  */
 export const education: TimelineItem[] = [
   {
-    date: 'April 2019',
-    location: 'Richard J Daley',
-    title: 'Bachlors in computer science',
-    content: <p>Completed bachlors</p>,
+    date: '',
+    location: '',
+    title: '',
+    content: <p></p>,
   },
   {
     date: 'March 2018',
     location: 'School of Business',
     title: 'self taught bussiness',
-    content: <p>self taught via game studio as a indie developer.</p>,
+    content: <p>self taught via local web design as an independent developer.</p>,
   },
 ];
 
@@ -291,7 +291,7 @@ export const experience: TimelineItem[] = [
     title: 'Senior UX Engineer',
     content: (
       <p>
-        I have completed work on a EMR/EHR solution deployed to mircosoft store. This included teleconsulting API.   
+        I have completed work on a EMR/EHR solution deployed to mircosoft store. This included Twilio API.   
    
       </p>
     ),
@@ -302,8 +302,8 @@ export const experience: TimelineItem[] = [
     title: 'Junior bug fixer',
     content: (
       <p>
-        Describe work
-        anything.
+        Reached out to local businesses with website designs and google utlization.
+        .
       </p>
     ),
   },
@@ -322,12 +322,12 @@ export const testimonial: TestimonialSection = {
     },
     {
       name: 'Cynthia Rodriguez',
-      text: 'Completed independent contracts.',
+      text: 'Completed independent contracts for her mothers psychic products.',
       image: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/14.jpg',
     },
     {
-      name: 'Unknown',
-      text: 'Completed NDA work.',
+      name: 'Class taught to local interested parties',
+      text: 'Completed website training for WIX and wordpress to local community.',
       image: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/69.jpg',
     },
   ],
@@ -359,7 +359,7 @@ export const contact: ContactSection = {
     {
       type: ContactType.Github,
       text: 'github',
-        href: 'https://github.com/dans',
+        href: 'https://github.com/dansiff',
     },
   ],
 };
