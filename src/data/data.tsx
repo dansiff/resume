@@ -197,36 +197,36 @@ export const portfolioItems: PortfolioItem[] = [
   {
     title: 'rogue Elves',
         description: 'A mobile game using unity to defend your base against a horde of Christmas themed baddies            .',
-    url: '',
+    url: '1',
     image: porfolioImage1,
   },
   {
     title: 'Zombie Training',
     description: 'FPS mobile game input via touch screen or bluetooth controller. .',
-    url: '',
+    url: '1',
     image: porfolioImage2,
   },
   {
     title: 'VR infinite runner',
-    description: 'Simulated running through fields of dangers. .',
-    url: '',
+    description: 'Simulated running through fields of dangers.',
+    url: '1',
     image: porfolioImage3,
   },
   {
     title: 'junkyard website',
     description: 'website that provided general information and prices for materials received.  Included labor cost and directions via google maps link. .',
-    url: '',
+    url: '1',
     image: porfolioImage4,
   },
   {
     title: '5',
-    description: ' .',
+    description: '1',
     url: 'ht',
     image: porfolioImage5,
   },
   {
     title: '6',
-    description: '',
+    description: '1',
     url: 'http',
     image: porfolioImage6,
   },
@@ -244,7 +244,7 @@ export const portfolioItems: PortfolioItem[] = [
   },
   {
     title: ' 9',
-    description: ' .',
+    description: '.',
     url: 'htt',
     image: porfolioImage9,
   },
@@ -255,7 +255,7 @@ export const portfolioItems: PortfolioItem[] = [
     image: porfolioImage10,
   },
   {
-    title: ' 11',
+    title: '11',
     description: '.',
     url: '',
     image: porfolioImage11,
@@ -267,38 +267,38 @@ export const portfolioItems: PortfolioItem[] = [
  */
 export const education: TimelineItem[] = [
   {
-    date: '',
-    location: '',
-    title: '',
+    date: '1',
+    location: '1',
+    title: '1',
     content: <p>a</p>,
   },
   {
-    date: '',
-    location: '',
-    title: '',
-    content: <p></p>,
+    date: '1',
+    location: '1',
+    title: '1',
+    content: <p>1</p>,
   },
 ];
 
 export const experience: TimelineItem[] = [
   {
-    date: '',
-    location: '',
-    title: '',
+    date: '2',
+    location: '2',
+    title: '2',
     content: (
       <p>
-        .   
+       2 .   
    
       </p>
     ),
   },
   {
-    date: '',
-    location: '',
-    title: '',
+    date: '3',
+    location: '3',
+    title: '3',
     content: (
       <p>
-        
+        3
         .
       </p>
     ),
@@ -349,8 +349,8 @@ export const contact: ContactSection = {
     },
     {
       type: ContactType.Instagram,
-      text: '',
-      href: '/',
+      text: '5',
+      href: '5',
     },
     {
       type: ContactType.Github,
