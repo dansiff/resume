@@ -72,22 +72,19 @@ export const heroData: Hero = {
     description: (
         <>
             <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-                I'm a Chicago based <strong className="text-stone-100">Full Stack Software Engineer</strong>, currently working
-                at <strong className="text-stone-100">Gazam</strong> building modern web applications using event driven syntax. 
-                I have lead teams to develop EMR/EHR solutions as well as angular based feedback surveys. I have expertise in API, SQL, NoSQL, WordPress,
-                Reactjs, expressjs, nodejs, C#, C++, springboot, AWS, mongoDB. 
-                I have a passion for the challenge of development. I recongize the importance of communication collaboration and modernization.
+                I'm a Chicago based <strong className="text-stone-100">Software Engineer</strong>, looking to contribute my expertise in 
+                 <strong className="text-stone-100"></strong> building web applications.
             </p>
             <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-                In my free time time, you can catch me training in <strong className="text-stone-100">the local gym</strong>,
-                fixing any <strong className="text-stone-100">Cars</strong>, or home remodeling in{' '}
+                Thank you for visiting my Reactjs web page. You can download my resume below. <strong className="text-stone-100"></strong>,
+                 <strong className="text-stone-100"></strong>,{' '}
                 <strong className="text-stone-100">Chicago</strong>.
             </p>
         </>
     ),
     actions: [
         {
-            href: 'https://drive.google.com/file/d/1RttIcaiCsK_FB4c8nyRKZCK-YbWNkQIy/view?usp=sharing',
+            href: 'https://drive.google.com/file/d/1hXm2f1ICVj_xc4PIdNBOzv1baNnjxVAU/view?usp=sharing',
             text: 'Resume',
             primary: true,
             Icon: ArrowDownTrayIcon,
@@ -107,16 +104,16 @@ export const heroData: Hero = {
 export const aboutData: About = {
     profileImageSrc: profilepic ,
   
-    description: `I am a self taught Full Stack Software engineer. 
-  I am driven to prove myself and make a name for myself in the industry.
-  Willing to solve any complex problem's given to me.'.`,
+    description: `I have worked on applications in the medical field as well as development of website services for a large network of doctors. 
+  I am driven to make a name for myself in the industry. The next chapter in software is powerful with an eager mindset we can achieve anything.
+  Willing to solve any complex problem's presented with software solutions. Including robust API application or custom code scripts.'.`,
   aboutItems: [
     {label: 'Location', text: 'Chicago, IL', Icon: MapIcon},
-    {label: 'Age', text: '32', Icon: CalendarIcon},
+    {label: 'Age', text: '33', Icon: CalendarIcon},
     {label: 'Nationality', text: 'American', Icon: FlagIcon},
-    {label: 'Interests', text: 'PC building, Car/house repair, Gym', Icon: SparklesIcon},
-    {label: 'Study', text: 'Richard J daley', Icon: AcademicCapIcon},
-      {label: 'Employment', text: 'Sandoval Bros, inc.', Icon: BuildingOffice2Icon},
+    {label: 'Interests', text: 'PC building, Car/house repair, Gaming,Gym', Icon: SparklesIcon},
+    {label: 'Study', text: 'UIC', Icon: AcademicCapIcon},
+      {label: 'Employment', text: 'Sandoval Bros, LLC.', Icon: BuildingOffice2Icon},
   ],
 };
 
@@ -129,11 +126,11 @@ export const skills: SkillGroup[] = [
     skills: [
       {
         name: 'English',
-        level: 10,
+        level: 9,
       },
       {
         name: '',
-        level: 4,
+        level: 0,
       },
       {
         name: 'Spanish',
@@ -206,13 +203,13 @@ export const portfolioItems: PortfolioItem[] = [
   },
   {
     title: 'Zombie Training',
-    description: 'Give .',
+    description: 'FPS mobile game input via touch screen or bluetooth controller. .',
     url: '',
     image: porfolioImage2,
   },
   {
     title: 'VR infinite runner',
-    description: 'Give .',
+    description: 'Simulated running through fields of dangers. .',
     url: '',
     image: porfolioImage3,
   },
@@ -223,45 +220,45 @@ export const portfolioItems: PortfolioItem[] = [
     image: porfolioImage4,
   },
   {
-    title: 'Project title 5',
-    description: 'Give a short description .',
+    title: '5',
+    description: ' .',
     url: 'ht',
     image: porfolioImage5,
   },
   {
-    title: 'Project title 6',
-    description: 'Give a short descript.',
+    title: '6',
+    description: '',
     url: 'http',
     image: porfolioImage6,
   },
   {
-    title: 'Project title 7',
-    description: 'Give a short description.',
-    url: 'htt',
+    title: '7',
+    description: '.',
+    url: '',
     image: porfolioImage7,
   },
   {
-    title: 'Project title 8',
-    description: 'Give a short description.',
+    title: '8',
+    description: '.',
     url: 'ht',
     image: porfolioImage8,
   },
   {
-    title: 'Project title 9',
-    description: 'Give a short description .',
+    title: ' 9',
+    description: ' .',
     url: 'htt',
     image: porfolioImage9,
   },
   {
-    title: 'Project title 10',
-    description: 'Give a short description.',
+    title: '10',
+    description: '.',
     url: 'htt',
     image: porfolioImage10,
   },
   {
-    title: 'Project title 11',
-    description: 'Give a short description.',
-    url: 'htt',
+    title: ' 11',
+    description: '.',
+    url: '',
     image: porfolioImage11,
   },
 ];
@@ -271,39 +268,39 @@ export const portfolioItems: PortfolioItem[] = [
  */
 export const education: TimelineItem[] = [
   {
-    date: 'April 2019',
-    location: 'Richard J Daley',
-    title: 'Bachlors in computer science',
-    content: <p>Completed bachlors</p>,
+    date: '',
+    location: '',
+    title: '',
+    content: <p>a</p>,
   },
   {
-    date: 'March 2018',
-    location: 'School of Business',
-    title: 'self taught bussiness',
-    content: <p>self taught via game studio as a indie developer.</p>,
+    date: '',
+    location: '',
+    title: '',
+    content: <p></p>,
   },
 ];
 
 export const experience: TimelineItem[] = [
   {
-    date: 'March 2020 - Present',
-    location: 'Sandoval Bros',
-    title: 'Senior UX Engineer',
+    date: '',
+    location: '',
+    title: '',
     content: (
       <p>
-        I have completed work on a EMR/EHR solution deployed to mircosoft store. This included teleconsulting API.   
+        .   
    
       </p>
     ),
   },
   {
-    date: 'March 2015 February 2019',
-    location: 'home Startup Studio',
-    title: 'Junior bug fixer',
+    date: '',
+    location: '',
+    title: '',
     content: (
       <p>
-        Describe work
-        anything.
+        
+        .
       </p>
     ),
   },
@@ -322,12 +319,12 @@ export const testimonial: TestimonialSection = {
     },
     {
       name: 'Cynthia Rodriguez',
-      text: 'Completed independent contracts.',
+      text: 'Completed independent contracts for her mothers psychic products.',
       image: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/14.jpg',
     },
     {
-      name: 'Unknown',
-      text: 'Completed NDA work.',
+      name: 'Class taught to local interested parties',
+      text: 'Completed website training for WIX and wordpress to local community.',
       image: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/69.jpg',
     },
   ],
@@ -359,7 +356,7 @@ export const contact: ContactSection = {
     {
       type: ContactType.Github,
       text: 'github',
-        href: 'https://github.com/dans',
+        href: 'https://github.com/dansiff',
     },
   ],
 };
@@ -370,7 +367,7 @@ export const contact: ContactSection = {
 export const socialLinks: Social[] = [
     {label: 'Github', Icon: GithubIcon, href: 'https://github.com/dansiff'},
   
-    {label: 'LinkedIn', Icon: LinkedInIcon, href: 'https://www.linkedin.com/in/daniel-sandoval-67137a257?fbclid=IwAR2YN_L7h4xlkStx_JFPUl3PWJkG1fZK8T4U7DljvllhdSMFNFpxGqWzd1k'},
+   
     {label: 'Instagram', Icon: InstagramIcon, href: 'https://www.instagram.com/danielsand711/?fbclid=IwAR2i_YorU2Gt0ovuH-XhMkAxt6-Hv4_FnkfRAEruaKbwcCyw30_8ojkNKxk'},
     {label: 'Twitter', Icon: TwitterIcon, href: 'https://twitter.com/danielsand7?fbclid=IwAR3mqBUzEJy2CbB2JMKOkZ_xjrIdPgG0S96NvvA2S-cuXlhBzl6j0vWTunE'},
 ];
